@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "Avenger";
+    src: url(./AvengeanceHeroicAvengerItalic-3og3.otf)
+}
+
+body {
+    background-color: rgb(139, 16, 16);
+}
+
+main {
+    width: 1650px;
+    height: 850px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    position: relative;
+    overflow: hidden ;
+}
+
+.text {
+    font-family: "Avenger";
+    font-size: 180px;
+    position: absolute;
+    top: 160px;
+    left: 700px;
+}
+
+.bg-image {
+    position: absolute;
+    width: 1650px; 
+    height: 850px
+}
+
+.ironman {
+    position: absolute;
+    top: 200px;
+    left: 740px;
+    scale: 1;
+    z-index: 4;
+}
+
+.captain {
+    position: absolute;
+    z-index: 3;
+    scale: 0.8;
+    top: 130px;
+    left: 450px;
+}
+
+
+.hawkeye {
+    position: absolute;
+    z-index: 3;
+    scale: 0.8;
+    top: 260px;
+    left: 1050px;
+}
+
+.widow {
+    position: absolute;
+    z-index: 2;
+    scale: 0.8;
+    top: 160px;
+    left: 320px;
+}
+
+.thor {
+    position: absolute;
+    z-index: 2;
+    scale: 0.65;
+    top: 10px;
+    left: 970px;
+}
+
+.hulk {
+    position: absolute;
+    z-index: 1;
+    scale: 0.95;
+    top: 180px;
+    left: 40px;
+}
