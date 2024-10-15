@@ -1,0 +1,30 @@
+#textstart{
+
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+    #boxfood{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+#textend {
+     border-top:1px solid black;
+     display: flex;
+     justify-content: center;
+     padding: 30px;
+     text-align: center;
+}
+
+#main{
+    margin: 10px;
+    width: 150px;
+    border-radius: 30px;
+    display: block; 
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px;
+    justify-content: center;
+}

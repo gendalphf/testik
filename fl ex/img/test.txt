@@ -1,0 +1,26 @@
+<div id="boxfood1">
+            <div id="peper">
+                <img src="images/Food_C238-128.png">
+                <p >Garlic</p>
+            </div>
+
+            <div id="peper">
+                <img src="images/Food_C225-128.png">
+                <p >Beff</p>
+
+            </div>
+            <div id="peper">
+                <img src="images/Food_C205-128.png">
+                <p>Fish</p>
+            </div>
+
+            <div id="peper">
+                <img src="images/Food_C203-128.png">
+                <p>Eggs</p>
+            </div>
+
+            <div id="peper">
+                <img src="images/Food_C235-128.png">
+                <p>Coriander</p>
+            </div>
+
